@@ -22,27 +22,9 @@ PayPay受け取りリンクを使用して何かしらのデータ(アカウン�
 このbotでは、アカウントなどの商品が販売できる機能(無料)だけでなく、フォロ爆自販機を知識がなくても作る事ができる機能(有料)があります。
 きっと、あなたの客が増えるでしょう。
 
-The classic template will automatically be added to your project after you run the command:
+## 有料機能(フォロ爆自販機機能)の詳細を教えてください。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+有料機能は<a href="https://google.com">こちら</a>のサーバーから購入できます。
+有料機能では、<a href="https://peakerr.com/">**Peakerr**</a>というSMMPanelのAPIkeyが利用できます。
+爆が購入されるとPeakerrのAPIkeyで自動的に爆が実行されます。(細かく設定できます)
+__**Peakerrの残高の追加では、主に仮想通貨(LTCなど)が必要です。**__
