@@ -9,16 +9,18 @@ sidebar_position: 1
 
 ## 自販機とは
 
-PayPay受け取りリンクを使用して何かしらのデータ(アカウントなど)を購入できるものです。
+PayPay受け取りリンクを使用して何かしらのデータ(アカウントなど)や、フォロ爆などを自動で購入できるものです。
 
 ### なぜそれが必要なのか
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- もし、あなたが不在でもあなたの客はあなたの商品を簡単に購入する事ができます。
+- わざわざ客と話すことなく、ボタンとフォームだけで簡単に購入する事ができます。
 
-## Generate a new site
+## どうしたらその機能を利用できますか？
 
-Generate a new Docusaurus site using the **classic template**.
+<a href="https://google.com">こちら</a>のbotをあなたのサーバーに入れてください。
+このbotでは、アカウントなどの商品が販売できる機能(無料)だけでなく、フォロ爆自販機を知識がなくても作る事ができる機能(有料)があります。
+きっと、あなたの客が増えるでしょう。
 
 The classic template will automatically be added to your project after you run the command:
 
