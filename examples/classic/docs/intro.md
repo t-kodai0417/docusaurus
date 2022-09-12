@@ -4,7 +4,8 @@ sidebar_position: 1
 
 # イントロダクション
 
-dooこの
+このdocsは自販機の使い方などを説明するためのものです。
+サポートサーバーは<a href="https://google.com">こちら</a>にあるので、何かありましたらそちらからご連絡ください。
 
 ## Getting Started
 
