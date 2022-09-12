@@ -5,7 +5,7 @@ sidebar_position: 1
 # イントロダクション
 
 このdocsは自販機の使い方などを説明するためのものです。
-サポートサーバーは<a href="https://google.com" target="_blank">こちら</a>にあるので、何かありましたらそちらからご連絡ください。
+サポートサーバーは<a href="https://google.com" target="_blank" rel="noopener noreferrer">こちら</a>にあるので、何かありましたらそちらからご連絡ください。
 
 ## 自販機とは
 
@@ -18,7 +18,7 @@ PayPay受け取りリンクを使用して何かしらのデータ(アカウン�
 
 ## どうしたらその機能を利用できますか？
 
-<a href="https://google.com" target="_blank">こちら</a>のbotをあなたのサーバーに入れてください。
+<a href="https://google.com" target="_blank" rel="noopener noreferrer">こちら</a>のbotをあなたのサーバーに入れてください。
 このbotでは、アカウントなどの商品が販売できる機能(無料)だけでなく、フォロ爆自販機を知識がなくても作る事ができる機能(有料)があります。
 きっと、あなたの客が増えるでしょう。
 
