@@ -7,13 +7,11 @@ sidebar_position: 1
 このdocsは自販機の使い方などを説明するためのものです。
 サポートサーバーは<a href="https://google.com">こちら</a>にあるので、何かありましたらそちらからご連絡ください。
 
-## Getting Started
+## 自販機とは
 
-Get started by **creating a new site**.
+PayPay受け取りリンクを使用して何かしらのデータ(アカウントなど)を購入できるものです。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
+### なぜそれが必要なのか
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
