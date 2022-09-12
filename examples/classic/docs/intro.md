@@ -24,7 +24,7 @@ PayPay受け取りリンクを使用して何かしらのデータ(アカウン�
 
 ## 有料機能(フォロ爆自販機機能)の詳細を教えてください。
 
-有料機能は<a href="https://google.com" target="_blank">こちら</a>のサーバーから購入できます。
-有料機能では、<a href="https://peakerr.com/" target="_blank">**Peakerr**</a>というSMMPanelのAPIkeyが利用できます。
+有料機能は<a href="https://google.com" target="_blank" rel="noopener noreferrer">こちら</a>のサーバーから購入できます。
+有料機能では、<a href="https://peakerr.com/" target="_blank" rel="noopener noreferrer">**Peakerr**</a>というSMMPanelのAPIkeyが利用できます。
 爆が購入されるとPeakerrのAPIkeyで自動的に爆が実行されます。(細かく設定できます)
 __**Peakerrの残高の追加では、主に仮想通貨(LTCなど)が必要です。**__
